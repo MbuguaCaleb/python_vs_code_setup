@@ -7,6 +7,8 @@
 
 (b)Clicking breakpoint and debug runs your code step by step.
 
+(c)Deactivating python environment(
+    type deactivate)
 
 
 ```
